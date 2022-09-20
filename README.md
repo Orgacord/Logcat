@@ -1,3 +1,4 @@
+![Screenshot](screenshot.png)
 # Logcat ⚠️Not finished⚠️
 Copyright © 2011-2022 Orgacord . All rights reserved.
 

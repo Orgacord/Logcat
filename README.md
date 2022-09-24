@@ -1,6 +1,6 @@
 ![Screenshot](screenshot.png)
 # Logcat ⚠️Not finished⚠️
-Copyright © 2011-2022 Orgacord . All rights reserved.
+Copyright © 2011-2022 Zero+ Team . All rights reserved.
 
 ## 📔 Index
 - [General Information](#general-information)

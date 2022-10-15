@@ -1,4 +1,4 @@
-![Banner](Banner.png)
+![Banner](https://github.com/Orgacord/Logcat/blob/main/.github/Banner.png)
 # Logcat ⚠️Not finished⚠️
 Copyright © 2011-2022 Zero+ Team . All rights reserved.
 

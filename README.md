@@ -1,4 +1,4 @@
-![Screenshot](screenshot.png)
+![Screenshot](Banner.png)
 # Logcat ⚠️Not finished⚠️
 Copyright © 2011-2022 Zero+ Team . All rights reserved.
 
